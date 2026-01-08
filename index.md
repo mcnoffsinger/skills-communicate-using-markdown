@@ -4,3 +4,4 @@
 #### Surely this must be the least header
 ##### Alas, there was one even lesser so
 ###### ...
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
