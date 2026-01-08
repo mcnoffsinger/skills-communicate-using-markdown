@@ -11,3 +11,9 @@ String effort = "Surely very large";
 bool Senioritis = false;
 bool lyingToMyself = true;
 ```
+
+- [x] this is a list
+- [ ] this is not a list
+- [ ] don't think this is a good way to use a list
+- [ ] maybe this is a good way to use a list
+- [x] apparently not
